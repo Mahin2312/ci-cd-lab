@@ -109,6 +109,8 @@ export default function Home() {
               height={16}
             />
             Go to nextjs.org →
+            {/*changes made to test the vercel*/}
+            <p>hello</p>
           </a>
         </footer>
       </div>
